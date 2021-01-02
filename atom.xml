@@ -6,7 +6,7 @@
   <link href="https://adiosy.github.io/atom.xml" rel="self"/>
   
   <link href="https://adiosy.github.io/"/>
-  <updated>2021-01-02T13:42:48.249Z</updated>
+  <updated>2021-01-02T07:43:49.083Z</updated>
   <id>https://adiosy.github.io/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>设计</title>
-    <link href="https://adiosy.github.io/zh-CN/2021-01-02/%E8%AE%BE%E8%AE%A1/"/>
-    <id>https://adiosy.github.io/zh-CN/2021-01-02/%E8%AE%BE%E8%AE%A1/</id>
-    <published>2021-01-02T13:42:48.000Z</published>
-    <updated>2021-01-02T13:42:48.249Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>on_design</title>
-    <link href="https://adiosy.github.io/en/2021-01-02/on-design/"/>
-    <id>https://adiosy.github.io/en/2021-01-02/on-design/</id>
-    <published>2021-01-02T12:30:24.000Z</published>
-    <updated>2021-01-02T12:30:24.236Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
