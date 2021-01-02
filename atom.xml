@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog Life</title>
+  <title>杂有集</title>
   <icon>https://adiosy.github.io/icon.png</icon>
   
   <link href="https://adiosy.github.io/atom.xml" rel="self"/>
